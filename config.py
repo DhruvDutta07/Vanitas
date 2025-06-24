@@ -9,24 +9,24 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("29348525"))
+API_HASH = getenv("d815eb5b92d9ba6e35c45fa4a85db492")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","slayer1237")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Womenshelpline")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "suzune_probot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "VanitasXProbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "˹Suzune")
+BOT_NAME = getenv("BOT_NAME" , "˹Vᴀɴɪᴛᴀs˼")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
+ASSUSERNAME = getenv("ASSUSERNAME" , "VanitasXJeanne")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002392274240))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002685904693))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6018803920))
+OWNER_ID = int(getenv("OWNER_ID", 6138142369))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Mahabharat_Updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MAHABHARAT_SUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MidexozBotUpdates")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Midexoz_Support")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
